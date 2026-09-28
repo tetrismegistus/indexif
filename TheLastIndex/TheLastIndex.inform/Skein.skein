@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x564311bdf7a0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7</generator>
+  <activeNode nodeId="node-0x564311bdf7a0"/>
+  <item nodeId="node-0x564311bdf7a0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+The Last Index
+An Interactive Fiction by Aric Maddux
+Release 1 / Serial number 260928 / Inform 7 v10.1.2 / D
+
+Darkness
+You see only darkness, proliferate as it is empty.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x564312106020"/>
+      <child nodeId="node-0x5643124796a0"/>
+      <child nodeId="node-0x5643125caac0"/>
+      <child nodeId="node-0x5643125be060"/>
+      <child nodeId="node-0x564312736b30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x564312106020">
+    <command xml:space="preserve">display image</command>
+    <result xml:space="preserve">Example image
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x5643124796a0">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  a cell phone
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56431255d4f0"/>
+      <child nodeId="node-0x564312598660"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56431255d4f0">
+    <command xml:space="preserve">x phone</command>
+    <result xml:space="preserve">It is pitch dark, and you can&apos;t see a thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56431257eca0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56431257eca0">
+    <command xml:space="preserve">x cell phone</command>
+    <result xml:space="preserve">It is pitch dark, and you can&apos;t see a thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x564312598660">
+    <command xml:space="preserve">examine cell phone</command>
+    <result xml:space="preserve">It is pitch dark, and you can&apos;t see a thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x5643125caac0">
+    <command xml:space="preserve">x phone</command>
+    <result xml:space="preserve">You can feel the familiar bump of the button on the side.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x5643124b9f40"/>
+      <child nodeId="node-0x5643123cdab0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x5643124b9f40">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Darkness
+You see only darkness, proliferate as it is empty.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56431220d7f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56431220d7f0">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  a cell phone
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x564312601410"/>
+    </children>
+  </item>
+  <item nodeId="node-0x564312601410">
+    <command xml:space="preserve">x cell</command>
+    <result xml:space="preserve">It is pitch dark, and you can&apos;t see a thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x564312602c50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x564312602c50">
+    <command xml:space="preserve">x cell phone</command>
+    <result xml:space="preserve">It is pitch dark, and you can&apos;t see a thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x5643123cdab0">
+    <command xml:space="preserve">push button</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x5643125be060">
+    <command xml:space="preserve">push cell phone button</command>
+    <result xml:space="preserve">page
+Empty.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x564312736b30">
+    <command xml:space="preserve">push button</command>
+    <result xml:space="preserve">(on the cell phone)
+Last Index
+Empty.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x564312751f30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x564312751f30">
+    <command xml:space="preserve">display image</command>
+    <result xml:space="preserve">Example image
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+</Skein>

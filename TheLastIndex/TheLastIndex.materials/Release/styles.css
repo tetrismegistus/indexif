@@ -1,0 +1,12 @@
+#output {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Merriweather';
+    margin: 20px auto 100px auto;
+}
+
+.dark-theme, .dark-theme #vorple {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    transitiont: background-color 0.5s ease, color.5s ease;
+}
